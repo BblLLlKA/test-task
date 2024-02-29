@@ -31,6 +31,8 @@ Additional task:
 
 Using the [API documentation](https://documenter.getpostman.com/view/19333967/2sA2rDx1Bv), create a request that will send the received data from the form, and show the user a thank you page.
 
+The thank you page needs to be designed by yourself. It can have anything related to thanking a user for registering.
+
 API Token: 5c879d17-yjis-7560-ed2p-26c854ffe9ff
 
 ### Task Resources
