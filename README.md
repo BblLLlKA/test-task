@@ -16,7 +16,7 @@ In this repository you are provided with an offer that needs to be cleaned of al
 Two fields should be validated in the form:
 
 > -   Full user name
-> -   User's phone number
+> -   User's phone number (There should only be a German number)
 
 It is also necessary to write a script that will collect all the links on the page, and when you click on them to make a smooth scroll to the registration form.
 
